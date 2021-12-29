@@ -50,7 +50,7 @@
 
 </br>
 
-### `📕 Latest Blog Posts`
+### 📕 Latest Blog Posts
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 
 </br></br>
