@@ -8,7 +8,7 @@
   <h6>🇹🇭 Bangkok, THAILAND</h6>
 </div>
 
-### `about me`
+### `About me`
 
 - 🔭 I’m currently working on National Institute of Development Administration (NIDA)
 - 🌱 I’m currently learning ...
@@ -19,7 +19,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### `connect with me`
+### `Connect with me`
 
 [<img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://codeinsane.wordpress.com/)
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/)
@@ -29,7 +29,7 @@
 
 </br>
 
-### `lanuages and tools`
+### `Lanuages and Tools`
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://codeinsane.wordpress.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://codeinsane.wordpress.com/)
@@ -47,6 +47,11 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://codeinsane.wordpress.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://codeinsane.wordpress.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://codeinsane.wordpress.com/)
+
+</br>
+
+### `📕 Latest Blog Posts`
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 
 </br></br>
 
