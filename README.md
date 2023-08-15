@@ -47,6 +47,10 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/natthasath" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/natthasath" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://codeinsane.wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 
+### Latest Blog posts
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 ### Badges
 
 
@@ -58,7 +62,7 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natthasath&hide=jupyter%20notebook)](https://github.com/natthasath)
 
- [![Github Trophies](https://github-profile-trophy.vercel.app/?username=natthasath&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=natthasath&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ### Support Me
 
