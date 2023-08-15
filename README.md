@@ -57,10 +57,10 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 ### Badges
 
-<img src="images/Oracle%20Solaris%2011%20System%20Administration.png" width="250">
-<img src="images/ISO%2027001.png" width="250">
-<img src="images/Basic%20Cyber%20Security.png" width="250">
-<img src="images/Windows%20Server%202016.png" width="250">
+<img src="images/Oracle%20Solaris%2011%20System%20Administration.png" width="100">
+<img src="images/ISO%2027001.png" width="100">
+<img src="images/Basic%20Cyber%20Security.png" width="100">
+<img src="images/Windows%20Server%202016.png" width="100">
 
 ### My GitHub Stats
 
