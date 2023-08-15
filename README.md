@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 [![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=natthasath)](https://github.com/natthasath)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natthasath)](https://github.com/natthasath)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natthasath&hide=jupyter%20notebook)](https://github.com/natthasath)
 
  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=natthasath&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
