@@ -48,11 +48,11 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 ### Latest Blog posts
 <!-- BLOG:START -->
+- [Poetry Virtual Environment Command](https://codeinsane.wordpress.com/2023/10/30/poetry-virtual-environment-command/)
 - [How to Rename all Files in Folder use UUID with Power Automate Desktop](https://codeinsane.wordpress.com/2023/10/09/how-to-rename-all-files-in-folder-use-uuid-with-power-automate/)
 - [How to use Web Application Firewall &lpar;WAF&rpar; with Waf2Py](https://codeinsane.wordpress.com/2023/10/05/how-to-use-web-application-firewall-waf-with-waf2py/)
 - [How to use Web Application Firewall &lpar;WAF&rpar; with ModSecurity](https://codeinsane.wordpress.com/2023/09/26/how-to-use-web-application-firewall-waf-with-modsecurity/)
 - [Fix SSH Error: no matching key exchange method found](https://codeinsane.wordpress.com/2023/08/11/fix-ssh-error-no-matching-key-exchange-method-found/)
-- [How to show Folder .git in Visual Studio Code](https://codeinsane.wordpress.com/2023/08/09/how-to-show-folder-git-in-visual-studio-code/)
 <!-- BLOG:END -->
 
 ### Badges
