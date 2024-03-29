@@ -48,11 +48,11 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 ### Latest Blog posts
 <!-- BLOG:START -->
-- [ประกาศย้ายไปเว็บ codeinsane.dev](https://codeinsane.wordpress.com/2024/03/19/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%a2%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-codeinsane-dev/)
-- [How to Trust Sign Image on Docker](https://codeinsane.wordpress.com/2023/10/31/how-to-trust-sign-image-on-docker/)
-- [Poetry Virtual Environment Command](https://codeinsane.wordpress.com/2023/10/30/poetry-virtual-environment-command/)
-- [How to Rename all Files in Folder use UUID with Power Automate Desktop](https://codeinsane.wordpress.com/2023/10/09/how-to-rename-all-files-in-folder-use-uuid-with-power-automate/)
-- [How to use Web Application Firewall &lpar;WAF&rpar; with Waf2Py](https://codeinsane.wordpress.com/2023/10/05/how-to-use-web-application-firewall-waf-with-waf2py/)
+- [Fix Backstage Error: Could not Fetch Catalog Entities](https://codeinsane.dev/fix-backstage-error-could-not-fetch/)
+- [How to Enable  Ransomware Protection on Windows 11](https://codeinsane.dev/how-to-enable-ransomware-protection-on-windows-11/)
+- [How to Trust Sign Image on Docker](https://codeinsane.dev/how-to-trust-sign-image-on-docker/)
+- [How to Rename all Files in Folder use UUID with Power Automate Desktop](https://codeinsane.dev/how-to-rename-all-files-with-power-automate/)
+- [How to use Web Application Firewall &lpar;WAF&rpar; with Waf2Py](https://codeinsane.dev/how-to-use-web-application-firewall-waf-with-waf2py/)
 <!-- BLOG:END -->
 
 ### Badges
