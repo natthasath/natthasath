@@ -48,11 +48,11 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 
 ### Latest Blog posts
 <!-- BLOG:START -->
+- [Deploy Kubernetes Dashboard to Cluster on Ubuntu 22.04](https://codeinsane.dev/deploy-kubernetes-dashboard-to-cluster/)
+- [Install Kubernetes Cluster on Ubuntu 22.04](https://codeinsane.dev/install-kubernetes-cluster-on-ubuntu-22-04/)
 - [Fix Backstage Error: Could not Fetch Catalog Entities](https://codeinsane.dev/fix-backstage-error-could-not-fetch/)
 - [How to Enable  Ransomware Protection on Windows 11](https://codeinsane.dev/how-to-enable-ransomware-protection-on-windows-11/)
 - [How to Trust Sign Image on Docker](https://codeinsane.dev/how-to-trust-sign-image-on-docker/)
-- [How to Rename all Files in Folder use UUID with Power Automate Desktop](https://codeinsane.dev/how-to-rename-all-files-with-power-automate/)
-- [How to use Web Application Firewall &lpar;WAF&rpar; with Waf2Py](https://codeinsane.dev/how-to-use-web-application-firewall-waf-with-waf2py/)
 <!-- BLOG:END -->
 
 ### Badges
