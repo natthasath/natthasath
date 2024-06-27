@@ -55,6 +55,12 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 - [How to Enable  Ransomware Protection on Windows 11](https://codeinsane.dev/how-to-enable-ransomware-protection-on-windows-11/)
 <!-- BLOG:END -->
 
+### Cloudflare Workers
+- [placeholders](https://placeholders-dev.codeinsane.workers.dev/)
+- [status-page](https://status-page-production.codeinsane.workers.dev/)
+- [pastebin](https://pastebin-production.codeinsane.workers.dev/)
+- [httpbin](https://httpbin.codeinsane.workers.dev/)
+
 ### Badges
 
 <p align="left">
