@@ -83,3 +83,9 @@ src="https://img.shields.io/github/followers/natthasath?logo=github&style=for-th
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/natthasath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natthasath/natthasath/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natthasath/natthasath/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natthasath/natthasath/output/github-contribution-grid-snake.svg">
+</picture>
